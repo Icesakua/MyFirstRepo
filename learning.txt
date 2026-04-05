@@ -1,3 +1,5 @@
+What I have learned from this course
+
 In this course, I have learned the basics of Git and GitHub, including how to initialize a repository, add files, and commit changes.
 I now understand how version control helps in tracking progress and managing projects efficiently.
 I have also learned how to collaborate and manage code using Git tools.
